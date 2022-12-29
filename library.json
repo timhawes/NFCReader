@@ -1,0 +1,20 @@
+{
+    "name": "NFCReader",
+    "version": "0.0.0-20221229",
+    "description": "Arduino library for managing a PN532 NFC reader",
+    "keywords": [],
+    "frameworks": ["arduino"],
+    "platforms": ["espressif8266"],
+    "dependencies": [
+        {
+            "name": "PN532",
+            "version": "https://github.com/Seeed-Studio/PN532.git#91a0e9f0"
+        }
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Hawes"
+        }
+    ]
+}
