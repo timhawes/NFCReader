@@ -1,6 +1,6 @@
 {
     "name": "NFCReader",
-    "version": "0.0.0-20221229",
+    "version": "0.0.0-20240218",
     "description": "Arduino library for managing a PN532 NFC reader",
     "keywords": [],
     "frameworks": ["arduino"],

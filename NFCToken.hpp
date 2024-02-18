@@ -1,4 +1,4 @@
-// SPDX-FileCopyrightText: 2018-2019 Tim Hawes
+// SPDX-FileCopyrightText: 2018-2024 Tim Hawes
 //
 // SPDX-License-Identifier: MIT
 
@@ -10,7 +10,7 @@
 #include <PN532_I2C.h>
 #include <PN532.h>
 
-#define MAX_UID_LENGTH 7
+#define MAX_UID_LENGTH 10
 #define MAX_ATS_LENGTH 32
 
 const uint8_t nfc_version_ntag213[] = {0x00, 0x04, 0x04, 0x02, 0x01, 0x00, 0x0F, 0x03};
